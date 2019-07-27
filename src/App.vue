@@ -118,6 +118,7 @@ body {
 .question, .answer {
   width: 95%;
   margin: 20px 0;
+  padding-left: 10px;
 }
 
 .nextQuestion {
